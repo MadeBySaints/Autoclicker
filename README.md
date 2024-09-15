@@ -16,7 +16,8 @@ Before running the script, ensure you have Python installed on your system and t
 
 - pynput
 
-You can install pynput using pip with the command pip install pynput.
+You can install pynput using pip with the command:
+- pip install pynput.
 
 ## Usage
 
